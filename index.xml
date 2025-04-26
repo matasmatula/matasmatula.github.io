@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matuko pustlapis</title>
+    <link>https://matasmatula.github.io/</link>
+    <description>Recent content on Matuko pustlapis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Apr 2025 13:44:31 +0300</lastBuildDate>
+    <atom:link href="https://matasmatula.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turinys</title>
+      <link>https://matasmatula.github.io/posts/turinys/</link>
+      <pubDate>Sat, 26 Apr 2025 13:44:31 +0300</pubDate>
+      <guid>https://matasmatula.github.io/posts/turinys/</guid>
+      <description>&lt;p&gt;Kažkoks pustlapio turinukas&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
